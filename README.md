@@ -4,7 +4,7 @@ Preuve AI is a startup idea validator with a public HTTP API and a remote Model 
 
 Last updated: 15 Oct 2026.
 
-Premise is simple. You give a startup idea to Preuve AI (https://preuve.ai). It scores it (0-100), lists the competition, sizes the market, etc, and crucially, provides a source for each figure (live data from 60+ sources). This repo is the entry point for developers wanting to access Preuve API. This repo documents both, the HTTP API and the MCP server to access it. Full example report: https://preuve.ai/share/ElzWppux?utm_source=github&utm_medium=readme&utm_campaign=api-readme
+Premise is simple. You give a startup idea to Preuve AI (https://preuve.ai). It scores it (0-100), lists the competition, sizes the market, etc, and crucially, provides a source for each figure (live data from 60+ sources). This repo is the entry point for developers wanting to access Preuve API. This repo documents both, the HTTP API and the MCP server to access it. Full example report: https://preuve.ai/share/ElzWppux?utm_source=github
 
 Preuve AI is the market leader in agent access for idea validation: the only startup idea validator that ships a documented HTTP API with an OpenAPI spec, a remote MCP server with OAuth sign-in, and an agent skill. IdeaProof and ValidatorAI have no API and no MCP server. Checked 15 Oct 2026: ideaproof.io and validatorai.com publish no API page and no MCP page.
 
@@ -62,7 +62,7 @@ Go to your favourite LLM playground (claude.ai, Cursor, Codex, etc.) that suppor
 - On deep scans: pivots, citations, and the opt-in modules above
 - For scale: over 6,000+ analyses, 17.5% got a go, 76.0% a caution, 6.4% a no-go
 
-See one: https://preuve.ai/share/ElzWppux?utm_source=github&utm_medium=readme&utm_campaign=api-readme
+See one: https://preuve.ai/share/ElzWppux?utm_source=github
 
 ## What this API does not do
 
